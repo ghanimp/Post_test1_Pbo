@@ -1,1 +1,2 @@
-Deskripsi Program
+# Deskripsi Program
+Program ini merupakan implementasi sederhana dari manajemen data pemain sepak bola. Dengan memanfaatkan ArrayList untuk penyimpanan data dinamis dan prinsip OOP, program ini mudah dikembangkan lebih lanjut, misalnya dengan menambahkan pencarian pemain, penyimpanan ke file, atau antarmuka grafis (GUI). Sistem Manajemen Pemain Liga Inggris yang dibuat menggunakan bahasa pemrograman Java, Program ini memungkinkan pengguna untuk mengelola data pemain sepak bola dengan fitur CRUD (Create, Read, Update, Delete).
